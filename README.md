@@ -46,7 +46,7 @@ The dataset reveals that a small handful of microbial species were present in mo
 
 ## Java Script
 
-[JavaScript](/static/app.js)
+[JavaScript](/static/js/app.js)
 
 
 
