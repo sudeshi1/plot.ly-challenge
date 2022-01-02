@@ -10,7 +10,7 @@ The dataset reveals that a small handful of microbial species were present in mo
 
 ## Requirements
 
-* Plot.ly
+* [Plotly](https://plotly.com/javascript/)
 
 * JavaScript
 
